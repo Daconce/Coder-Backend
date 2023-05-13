@@ -1,0 +1,101 @@
+[
+  {
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 25,
+    "id": 1
+  },
+  {
+    "title": "Nike Dunk High Premium",
+    "description": "Zapatillas Jordan para Hombre",
+    "price": 69999,
+    "thumbnail": "Sin imagen",
+    "code": "ndhp",
+    "stock": 25,
+    "id": 2
+  },
+  {
+    "title": "Nike Air Force 1 '07 LX",
+    "description": "Zapatillas Jordan para Hombre",
+    "price": 62999,
+    "thumbnail": "Sin imagen",
+    "code": "naf107lx",
+    "stock": 25,
+    "id": 3
+  },
+  {
+    "title": "Nike Phantom GX Academy MG",
+    "description": "Botines de Futbol Unisex",
+    "price": 43999,
+    "thumbnail": "Sin imagen",
+    "code": "npgxamg",
+    "stock": 15,
+    "id": 4
+  },
+  {
+    "title": "Nike Air Max 95",
+    "description": "Zapatillas de Moda para Hombre",
+    "price": 82999,
+    "thumbnail": "Sin imagen",
+    "code": "nam95",
+    "stock": 30,
+    "id": 5
+  },
+  {
+    "title": "Nike Court Legacy Canvas",
+    "description": "Zapatillas de Moda para Hombre",
+    "price": 29999,
+    "thumbnail": "Sin imagen",
+    "code": "nclc",
+    "stock": 45,
+    "id": 6
+  },
+  {
+    "title": "Nike Air Force 1 Low Retro",
+    "description": "Zapatillas de Moda para Hombre",
+    "price": 74999,
+    "thumbnail": "Sin imagen",
+    "code": "naf1lr",
+    "stock": 15,
+    "id": 7
+  },
+  {
+    "title": "Nike Revolution 6 Next Nature",
+    "description": "Zapatillas de Running para Mujer",
+    "price": 29999,
+    "thumbnail": "Sin imagen",
+    "code": "nr6nn",
+    "stock": 25,
+    "id": 8
+  },
+  {
+    "title": "Nike Downshifter 12",
+    "description": "Zapatillas de Running para Mujer",
+    "price": 32999,
+    "thumbnail": "Sin imagen",
+    "code": "nd12",
+    "stock": 25,
+    "id": 9
+  },
+  {
+    "title": "Nike Air Max 90 Futura",
+    "description": "Zapatillas de Running para Mujer",
+    "price": 69999,
+    "thumbnail": "Sin imagen",
+    "code": "nam90f",
+    "stock": 25,
+    "id": 10
+  },
+  {
+    "title": "Nike React Pegasus Trail 4",
+    "description": "Zapatillas de Running para Mujer",
+    "price": 62999,
+    "thumbnail": "Sin imagen",
+    "code": "nrpt4",
+    "stock": 25,
+    "id": 11
+  }
+]
