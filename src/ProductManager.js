@@ -28,9 +28,10 @@ class ProductManager {
       !product.title ||
       !product.description ||
       !product.price ||
-      !product.thumbnail ||
       !product.code ||
-      !product.stock
+      !product.stock ||
+      !product.category ||
+      !product.hasOwnProperty("status")
     ) {
       throw new Error("All product fields are required");
     }
@@ -42,7 +43,10 @@ class ProductManager {
     const newProduct = {
       ...product,
       id: ++this.lastProductId,
+      thumbnails: product.thumbnails || [],
+      status: product.status === false ? false : true,
     };
+
     this.products.push(newProduct);
     this.saveToFile();
     return newProduct;
